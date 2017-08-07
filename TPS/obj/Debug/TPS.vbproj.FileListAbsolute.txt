@@ -1,0 +1,37 @@
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.exe.config
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.exe
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.pdb
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.xml
+C:\Program Files\TPSFripapas\TPS\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Program Files\TPSFripapas\TPS\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Program Files\TPSFripapas\TPS\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Program Files\TPSFripapas\TPS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Program Files\TPSFripapas\TPS\bin\Debug\rtaGlassEffectsLib.dll
+C:\Program Files\TPSFripapas\TPS\bin\Debug\VistaControls.dll
+C:\Program Files\TPSFripapas\TPS\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form1.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form2.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Resources.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.vbproj.GenerateResource.Cache
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.exe
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.xml
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.pdb
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form3.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form4.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form5.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form6.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form7.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form8.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form9.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form10.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form11.resources
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.Form12.resources
+C:\Users\SIER\Desktop\TPSFripapas\TPS\bin\Debug\TPS.exe.config
+C:\Users\SIER\Desktop\TPSFripapas\TPS\obj\Debug\TPS.exe
+C:\Users\SIER\Desktop\TPSFripapas\TPS\obj\Debug\TPS.xml
+C:\Users\SIER\Desktop\TPSFripapas\TPS\obj\Debug\TPS.pdb
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.exe.manifest
+C:\Program Files\TPSFripapas\TPS\bin\Debug\TPS.application
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.TrustInfo.xml
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.exe.manifest
+C:\Program Files\TPSFripapas\TPS\obj\Debug\TPS.application
